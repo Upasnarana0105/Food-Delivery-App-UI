@@ -5,10 +5,7 @@ live Prototype: [View on Figma] (https://www.figma.com/proto/nYmO3h355FYtwhkpl7a
 ---
 
 Features
-1- Interactive prototype with real-time flow
-2- Clean and minimal user interface 
-3- Easy navigation from home to checkout 
-4- Food listing and order screens with visual hierarchy
+Interactive prototype with real-time flow. Clean and minimal user interface .Easy navigation from home to checkout. Food listing and order screens with visual hierarchy
 
 ---
 
